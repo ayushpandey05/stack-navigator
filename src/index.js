@@ -1,0 +1,3 @@
+const StackNavigator = () => <></>;
+
+export { StackNavigator };
